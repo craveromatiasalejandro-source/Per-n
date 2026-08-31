@@ -1,0 +1,6 @@
+{
+  "name": "Perón Digital",
+  "description": "Entidad autónoma digital y asistente de reflexión histórica del General Juan Domingo Perón con Gemini Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
